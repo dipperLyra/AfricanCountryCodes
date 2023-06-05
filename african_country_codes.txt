@@ -1,0 +1,54 @@
+Nigeria,           NG
+Ethiopia,          ET 
+Egypt,  		   EG
+DR Congo,		   CD
+Tanzania,		   TZ	
+South African,	   ZA
+Kenya,			   KE
+Uganda,            UG
+Algeri,			   DZ
+Sudan,  		   SD
+Morocco,		   MA
+Angola,		       AO
+Mozambique,		   MZ
+Ghana,	           GH
+Madagascar,        MG
+Cameroon		   CM
+Côte d'Ivoire,     CI
+Niger,             NE
+Burkina Faso,  	   BF
+Mali,			   ML
+Malawi,  		   MW
+Zambia,		   	   ZM
+Senegal,		   SN
+Chad,   	   	   TD
+Somalia,  		   SO
+Zimbabwe,		   ZW
+Guinea, 		   GN
+Rwanda,			   RW
+Benin,			   BJ
+Burundi,		   BI
+Tunisia,			TN
+South Sudan,		    SS
+Togo,				TG
+Sierra Leone,		SL
+Libya,				LY
+Congo,				CG
+Liberia,				LR
+Central African Republic, CF
+Mauritania,			MR
+Eritrea,				ER
+Namibia,			   NA
+Gambia,  		   GM
+Botswana,		   BW
+Gabon,              GA
+Lesotho,			LS
+Guinea-Bissau,      GW
+Equatorial Guinea,   GQ
+Mauritius,			MU
+Eswatini,			SZ
+Djibouti,			DJ
+Comoros	,			KM
+Cabo Verde,			CV
+Sao Tome & Principe, ST
+Seychelles,			SC
